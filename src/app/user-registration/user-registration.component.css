@@ -1,0 +1,40 @@
+.div2{
+    
+    background-image: url(src\assets\images\Registration.jpg);
+    background-repeat: no-repeat;
+    background-size:100%;
+    width:100%;
+    height:720px; 
+}
+
+.heading{
+    font-size:500%;
+    color:black;
+    margin-left:5%;
+    /* text-align: center; */
+}
+.title{
+    color:black;
+    margin-left:100px; 
+}
+.login{
+    margin-top:5%;
+    width:30%;
+    height:80%;
+    text-align: center; 
+    margin-left:10%;
+    background-color: rgb(255, 238, 204);
+}
+.btn{
+    background-color: gray;
+    color: black;
+
+    border-radius: 10px;
+    /* margin-top: 5px; */
+    margin-left: 15%;color: #000;
+    /* height: 40px; */
+    width: 30%;
+}
+.mat-radio-button ~ .mat-radio-button {
+    margin-left: 16px;
+  }
